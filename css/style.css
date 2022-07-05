@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+font-size: 50px;
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.flexible-part{
+    display: flex;
+    background-image: url(/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.half{
+    width: 50%;
+    margin-left: 5%;
+}
+
+img{
+width: 80%;
+}
+.button{
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-image: linear-gradient(#db7c59, #e33408);
+    color: white;
+    text-decoration: none;
+}
+.about-me-part{
+    background-image: url(/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-part{
+    text-align: center;
+}
+.flex-part p{
+        padding: 0 50px;
+}
+.main{
+    display: flex;
+    box-shadow: 10px 20px 40px gray;
+    margin: 40px;
+    border-radius: 50px;
+    
+}
+.recipy-both{
+    display: flex;
+    width: 100%;
+}
+.recipy-one{
+    box-shadow: 10px 20px 40px gray;
+    margin: 40px;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.recipy-pic{
+    width: 100%;
+}
+.youtube{
+    width: 30%;
+}
+footer{
+    background: #000;
+    padding: 100px 0;
+    text-align: center;
+}
+footer .orange-color{
+    color: coral;
+}
+footer .gray-color{
+    color: #767170;
+}
+footer p{
+    color: white;
+}

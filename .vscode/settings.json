@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.copyOnSelection": true,
+    "extensions.ignoreRecommendations": false,
+    "scm.inputFontSize": 20,
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.rightClickBehavior": "default"
+}
